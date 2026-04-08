@@ -1,0 +1,3 @@
+[submodule "kith-linux"]
+	path = kith-linux
+	url = https://github.com/aPassie/kith-linux.git
