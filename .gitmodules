@@ -1,3 +1,6 @@
 [submodule "kith-linux"]
 	path = kith-linux
 	url = https://github.com/aPassie/kith-linux.git
+[submodule "kith-mobile"]
+	path = kith-mobile
+	url = https://github.com/aPassie/kith-mobile.git
