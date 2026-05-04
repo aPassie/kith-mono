@@ -2,4 +2,7 @@
 
 my devices talking to each other.
 
-linux daemon at `kith-linux/` and android app at `kith-mobile/`.
+linux daemon at `kith-linux/` — rust + iroh + zbus.
+android app at `kith-mobile/` — kotlin + compose, shares the rust core.
+
+`git clone --recursive` to pull submodules.
